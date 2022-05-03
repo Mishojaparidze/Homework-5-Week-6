@@ -136,7 +136,7 @@ namespace HomeWork5_Week_6
             int h = Convert.ToInt32(Console.ReadLine());
             if (h < x)
             {
-                for (i = 0; i < h; i++)
+               for (i = 0; i < h; i++)
                 {
                     Console.WriteLine(gradesArray[i]);
                 }
